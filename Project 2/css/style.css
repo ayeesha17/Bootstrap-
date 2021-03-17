@@ -1,0 +1,29 @@
+body {
+  background: url(/img/pexels-sanaan-mazhar-3075993.jpg) center center fixed;
+  background-size: cover;
+  -webkit-background-size: cover;
+  font-family: "Abril Fatface", cursive;
+  /* opacity: 1; */
+}
+.rowHeight {
+  height: 400px;
+}
+
+h1 {
+  color: #fff;
+  font-size: 2.5em;
+}
+.bg {
+  background-color: #c1c1c1;
+  opacity: 0.8;
+}
+.footer {
+  background-color: #fff;
+  margin-top: 20px;
+  /* position: fixed;
+  bottom: 0; */
+}
+p {
+  font-size: 10px;
+  padding: 20px;
+}

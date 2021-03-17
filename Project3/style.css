@@ -1,0 +1,25 @@
+ body {
+  background: url(/img/pexels-pixabay-46253.jpg) no-repeat center center fixed; 
+  background-size: cover;
+  background-color: rgb(167, 151, 151);
+  
+  text-align: center;
+  
+} 
+ /* img {
+  width: 150px;
+  height: 250px;
+  padding: 50px;
+  margin: 0 auto;
+}  */
+#login-modal .modal-dialog {
+  width: 350px;
+  /* margin-left: 500px; */
+  text-align: center;
+}
+#login-modal input[type=text], input[type=password] {
+margin-top: 20px;
+}
+.push-left {
+  margin-left: -200px;
+}
