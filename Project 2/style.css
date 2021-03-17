@@ -1,5 +1,5 @@
 body {
-  background: url(/img/pexels-sanaan-mazhar-3075993.jpg) center center fixed;
+  background: url(img/pexels-riccardo-bertolo-4245826.jpg) no-repeat center fixed;
   background-size: cover;
   -webkit-background-size: cover;
   font-family: "Abril Fatface", cursive;
@@ -10,7 +10,7 @@ body {
 }
 
 h1 {
-  color: #fff;
+  color: #000;
   font-size: 2.5em;
 }
 .bg {
